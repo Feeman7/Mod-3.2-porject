@@ -146,7 +146,7 @@ margin: 0 auto;
 
 .highlight {
   padding: 0 24px;
-  width: calc(100% / 3)
+  width: calc(100% / 3);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -159,6 +159,7 @@ text-align: center;
 
 .highlight__img {
 border: 2px solid #7342d68f;
+color:#7342d6;
 width: 100px;
 height: 100px;
 display: flex;
@@ -170,6 +171,7 @@ margin-bottom: 24px;
 }
 
 .highlight__subtitle {
-  font-size: 20px;
+  font-size: 24px;
   margin-bottom: 16px;
 }
+
